@@ -1,0 +1,5 @@
+{
+  "name": "Shopify Product JSON to CSV Converter",
+  "description": "A professional tool to fetch public Shopify product data via .json endpoints and convert them into Shopify-compatible CSV import files with variant support and HTML cleaning.",
+  "requestFramePermissions": []
+}
